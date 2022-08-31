@@ -1,0 +1,10 @@
+{
+  "projectName": "newsletter",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "php7.4"
+  },
+  "hash": "5e0d8d55"
+}
